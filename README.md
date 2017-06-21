@@ -21,5 +21,4 @@
 - [핫키 – override](/doc/17.md)
 - [핫키 – 정의로 이동](/doc/18.md)
 - [App 아이콘과 이름 설정](/doc/19.md)
-- [Android란](/doc/19.md)
 - [파일 및 경로구조](/doc/20.md)
