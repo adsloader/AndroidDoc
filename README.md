@@ -39,9 +39,9 @@
 - [Layout – Linear](/doc/35.md)
 - [Layout – Relative](/doc/36.md)
 - [Layout – Frame](/doc/37.md)
+- [Activity – 화면](/doc/38.md)
 
 ----
-(License) 
-- 다른곳에 링크 또는 본문 인용시 미리 알려주시기 바랍니다. adsloader99@gmail.com 
-- 상업적인 사용은 불가합니다. 
-
+(License)
+- 다른곳에 링크 또는 본문 인용시 미리 알려주시기 바랍니다. adsloader99@gmail.com
+- 상업적인 사용은 불가합니다.
