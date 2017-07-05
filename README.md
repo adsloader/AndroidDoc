@@ -46,6 +46,7 @@
 - [Button](/doc/40.md)
 - [TextView](/doc/43.md)
 - [EditText](/doc/44.md)
+- [Activity – 데이터전송](/doc/45.md)
 
 ----
 (License)
