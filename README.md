@@ -39,11 +39,11 @@
 - [Layout – Linear](/doc/35.md)
 - [Layout – Relative](/doc/36.md)
 - [Layout – Frame](/doc/37.md)
+- [위젯배경에 이미지 넣기](/doc/42.md)
 - [Activity – 화면](/doc/38.md)
 - [이벤트핸들러 - 동기, 비동기](/doc/39.md)
 - [Android의 가장 흔한 코딩순서](/doc/41.md)
 - [Button](/doc/40.md)
-
 ----
 (License)
 - 다른곳에 링크 또는 본문 인용시 미리 알려주시기 바랍니다. adsloader99@gmail.com
