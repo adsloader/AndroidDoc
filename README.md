@@ -41,6 +41,7 @@
 - [Layout – Frame](/doc/37.md)
 - [Activity – 화면](/doc/38.md)
 - [이벤트핸들러 - 동기, 비동기](/doc/39.md)
+- [Android의 가장 흔한 코딩순서](/doc/41.md)
 - [Button](/doc/40.md)
 
 ----
