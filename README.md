@@ -48,6 +48,7 @@
 - [EditText](/doc/44.md)
 - [Activity – 데이터전송](/doc/45.md)
 - [Service](/doc/46.md)
+- [BroadCastReceiver](/doc/47.md)
 
 ----
 (License)
